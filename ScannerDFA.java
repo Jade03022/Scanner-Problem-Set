@@ -5,8 +5,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import javax.lang.model.util.ElementScanner14;
-
 public class ScannerDFA {
     public static class Token{
         String literal;
